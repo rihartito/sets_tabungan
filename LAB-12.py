@@ -1,9 +1,5 @@
 
 '''
-#Rihar del tito-71200648
-#Universitas Kristen Duta wacana
-#https://www.w3resource.com/python-exercises/sets/
-#sets
 
 dari jadwal set yang telah diberikan buatlah 2 inputan user yang bernama adit dan jarwo 
 untuk menabung tunjukkan harinya setelah itu jumlahkan dan rata2 setiap tabungan user setelah itu berikan bila ada nilai tabungan yang sama
